@@ -1,0 +1,12 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1174
+
+This plugin makes you be able to control Rhythmbox in VIM.
+
+You can change default Key-Map in rhythmbox.vim.
+
+default key
+
+F7 = current song
+Shift + F7 = play/stop
+F8 = Previous Song
+F9 = Next Song
